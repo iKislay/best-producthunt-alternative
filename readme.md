@@ -97,6 +97,7 @@ Sites where you launch a product, get listed, collect votes or earn a badge.
 - **[BuildBoard](https://altern.ai/buildboard)**: a launch board for anything you build.
 - **[Nick Launches](https://nicklaunches.com)**: showcase a new product to other builders and earn a backlink.
 - **[Betapage](https://betapage.co)**: older daily startup listings that are still indexed.
+- **[SitePatent](https://sitepatent.com/)**: directory of startups, tools and online products by category and tech stack. The free plan needs a badge on your homepage, and paid plans start at $19 one time.
 
 ## Pre launch and beta platforms
 
