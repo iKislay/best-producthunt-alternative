@@ -96,6 +96,7 @@ Sites where you launch a product, get listed, collect votes or earn a badge.
 - **[Semi Launch](https://semilaunch.com)**: weekly launchpad where makers submit apps and unusual projects for votes and visibility.
 - **[BuildBoard](https://altern.ai/buildboard)**: a launch board for anything you build.
 - **[Nick Launches](https://nicklaunches.com)**: showcase a new product to other builders and earn a backlink.
+- **[MEDIAPRONET](https://mediapronet.com)**: curated directory of newly launched startups, SaaS tools and indie products, each with its own listing page. Free listings need a badge on your homepage and wait at least 7 days; paid plans start at $19 one time.
 - **[Betapage](https://betapage.co)**: older daily startup listings that are still indexed.
 
 ## Pre launch and beta platforms
